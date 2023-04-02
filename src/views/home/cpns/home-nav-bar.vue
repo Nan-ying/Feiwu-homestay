@@ -1,6 +1,6 @@
 <template>
   <div class="nav-bar">
-    <div class="title">飞屋旅途</div>
+    <div class="title">飞屋民宿</div>
   </div>
 </template>
 
